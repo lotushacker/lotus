@@ -1,0 +1,12 @@
+//
+// Prefix header for all source files of the 'AppDefaultTemplate' target in the 'AppDefaultTemplate' project
+//
+
+#ifdef __OBJC__
+
+#import <Foundation/Foundation.h>
+#import <APMobileNetwork/APMobileNetwork.h>
+#import <APMobileFramework/APMobileFramework.h>
+#import <MobileFoundation/MobileFoundation.h>
+
+#endif
